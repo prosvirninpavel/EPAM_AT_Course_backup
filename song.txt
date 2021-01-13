@@ -13,3 +13,4 @@ pre
 
 
 second part for 'feature' branch
+and another one string for feature branch
